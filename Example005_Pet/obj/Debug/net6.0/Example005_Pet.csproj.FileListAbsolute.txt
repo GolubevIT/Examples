@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\bin\Debug\net6.0\Example005_Pet.exe
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\bin\Debug\net6.0\Example005_Pet.deps.json
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\bin\Debug\net6.0\Example005_Pet.runtimeconfig.json
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\bin\Debug\net6.0\Example005_Pet.dll
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\bin\Debug\net6.0\Example005_Pet.pdb
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.dll
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\refint\Example005_Pet.dll
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.pdb
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\Example005_Pet.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Geek Brain\Examples\Example005_Pet\obj\Debug\net6.0\ref\Example005_Pet.dll
